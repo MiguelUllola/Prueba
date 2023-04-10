@@ -1,0 +1,76 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif,arial;
+}
+
+.imagen_inicio{
+    height: 100vh;
+    background-image: url(img/pacto-visual-cWOzOnSoh6Q-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.titulo{
+    color: white;
+    padding-left: 25px;
+}
+.primer_texto{
+    width: 90%;
+    height: 45vh;
+    margin: 0 auto;
+}
+.primer_subtitulo{
+    text-align: center;
+    padding: 30px 0;
+}
+.primer_parrafo{
+    text-align: justify;
+}
+.segunda_img{
+    height: 60vh;
+    background-image: url(img/mikhail-vasilyev-NodtnCsLdTE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: end;
+}
+.segundo_subtitulo{
+    padding-left: 30px;
+    padding-bottom: 20px;
+    font-size: 35px;
+}
+.texto_sin_img{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+.img_sin_texto{
+    height: 40vh;
+    background-image: url(img/kote-puerto-so5nsYDOdxw-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.img_final{
+    height: 100vh;
+    background-image: url(img/manja-vitolic-gKXKBY-C-Dk-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.texto_final{
+    padding-bottom: 30px;
+    color: white;
+    font-size: 45px;
+}
