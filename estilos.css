@@ -7,7 +7,7 @@
 
 .imagen_inicio{
     height: 100vh;
-    background-image: url(img/pacto-visual-cWOzOnSoh6Q-unsplash.jpg);
+    background-image: url(pacto-visual-cWOzOnSoh6Q-unsplash.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -32,7 +32,7 @@
 }
 .segunda_img{
     height: 60vh;
-    background-image: url(img/mikhail-vasilyev-NodtnCsLdTE-unsplash.jpg);
+    background-image: url(mikhail-vasilyev-NodtnCsLdTE-unsplash.jpg);
     background-size: cover;
     background-position: center;
 
@@ -54,14 +54,14 @@
 }
 .img_sin_texto{
     height: 40vh;
-    background-image: url(img/kote-puerto-so5nsYDOdxw-unsplash.jpg);
+    background-image: url(kote-puerto-so5nsYDOdxw-unsplash.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
 }
 .img_final{
     height: 100vh;
-    background-image: url(img/manja-vitolic-gKXKBY-C-Dk-unsplash.jpg);
+    background-image: url(manja-vitolic-gKXKBY-C-Dk-unsplash.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
